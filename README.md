@@ -13,7 +13,7 @@ Dans l'envie d'assouvir ma curiosité, et motivée à m'améliorer, je m’engag
 Animée par l’envie de relever des défis, je suis déterminée à trouver des solutions concrètes aux problématiques complexes et à créer de la valeur grâce à l’analyse des données.
 
 
-# Compétences sur lesquelles je travaille
+# 🌟 Compétences sur lesquelles je travaille
 - Python : pandas, matplotlib, seaborn, numpy
 - SQL : requêtes, manipulation de bases de données
 - Power BI : création de tableaux de bord interactifs, visualisation de données
@@ -24,14 +24,15 @@ Animée par l’envie de relever des défis, je suis déterminée à trouver des
 🌐 **LinkedIn** : [Mon profil](https://www.linkedin.com/in/chlo%C3%A9-etienne-6a2603148/)
 
 
-# Projets
+# Projets disponibles
+**PROJET 1 : POMPIERS DE LONDRES** : Projets/Pompiers-Londres/README.md
 Etude d'un jeu de données conséquant détaillant les interventions des pompiers de Londres afin de repérer les tendances, comprendre et analyser les temps de réponse.
 - Situation : Analyse des données : interventions des pompiers de Londres pour optimiser les temps de réponse.
 - Tâches : Nettoyage des données, modèles de Machine Learning, tableau de bord interactif.
 - Actions : gestion des doublons, valeurs manquantes, typage. Entraînement et comparaison de modèles (Random Forest, XGBoost, etc.). Conception d’un tableau de bord visualisant les résultats clés.
 - Résultats : Dataset propre et optimisé, prédictions précises des temps de réponse, rapport Power BI.
 
-## En cours
+## 🚧 Projets en cours
 - Analyse des films Netflix
 
 
