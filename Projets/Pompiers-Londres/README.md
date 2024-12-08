@@ -29,4 +29,7 @@ Travail de groupe dans le cadre d'une formation intensive en data analyse (proje
 Ce projet m’a permis de :  
 - Développer mes compétences en création de tableaux de bord Power BI.  
 - Interpréter des données complexes pour en tirer des insights exploitables.  
-- Améliorer ma communication des résultats à travers des visualisations claires et impactantes.  
+- Améliorer ma communication des résultats à travers des visualisations claires et impactantes.
+
+
+[Retour au portfolio](README.md)
