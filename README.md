@@ -25,7 +25,7 @@ Animée par l’envie de relever des défis, je suis déterminée à trouver des
 
 
 # Projets disponibles
-**PROJET 1 : POMPIERS DE LONDRES** : (Projets/Pompiers-Londres/README.md)  
+**PROJET 1 : POMPIERS DE LONDRES** : [Voir le projet](Projets/Pompiers-Londres/README.md)  
 Etude d'un jeu de données conséquant détaillant les interventions des pompiers de Londres afin de repérer les tendances, comprendre et analyser les temps de réponse.
 - Situation : Analyse des données : interventions des pompiers de Londres pour optimiser les temps de réponse.
 - Tâches : Nettoyage des données, modèles de Machine Learning, tableau de bord interactif.
